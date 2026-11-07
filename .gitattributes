@@ -1,0 +1,15 @@
+* text=auto eol=lf
+
+*.blade.php diff=html
+*.css diff=css
+*.html diff=html
+*.md diff=markdown
+*.php diff=php
+
+CHANGELOG.md export-ignore
+README.md export-ignore
+
+Dockerfile text eol=lf
+deploy/*.sh text eol=lf
+deploy/*.conf text eol=lf
+deploy/*.ini text eol=lf

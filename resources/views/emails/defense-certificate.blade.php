@@ -1,0 +1,1 @@
+<p>Hello {{ $studentName }},</p><p>The Administrative Assistant released your {{ $stage }} defense certificate. The PDF is attached and is also available in your Graduate School account under Certificates.</p><p>This certificate relates to the specified defense. It does not automatically establish graduation or completion of the entire program.</p>
